@@ -44,4 +44,9 @@ This repo is intended to document the weekly progress.
 4) install gtkwave
 
 ### CLONING RISC-V GNU TOOLCHAIN
+```sudo apt install git-all```   # To install git
+
+```sudo apt-get install autoconf automake autotools-dev curl python3 libmpc-dev libmpfr-dev libgmp-dev gawk build-essential bison flex texinfo gperf libtool patchutils bc zlib1g-dev libexpat-dev``` *make sure to install the dependencies*
+![GNU](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/d4ac9984-a9c5-48d7-bdff-00deed1ff688)
+
 
