@@ -37,3 +37,6 @@
 <br>
 <p align="justify">Used for unconditional jump operations, which transfer control to a different instruction unconditionally. They include one register operand and a 20-bit immediate value for the jump target address. Eg:- J (jump)</p>
 </details>
+
+
+#Base Instructions Format
