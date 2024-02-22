@@ -46,4 +46,4 @@
 <summary><b>Instruction code format </b></summary>
 	<br>
 ![instruction code formats](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/f554789e-4bbf-4dee-b263-a307933ef688)
-<details/>
+</details>
