@@ -47,3 +47,8 @@
 	<br>
 ![instruction code formats](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/f554789e-4bbf-4dee-b263-a307933ef688)
 </details>
+
+<details>
+<summary><b>RISC-V REGISTER FILE: </b></summary>
+	<br>
+ <p align="justify">The RISC-V register file is a key component of the RISC-V architecture, providing a set of storage locations for holding data during the execution of instructions. The register file is organized into a set of integer registers and floating-point registers, depending on the extensions implemented in the processor. Registers play a crucial role in the RISC-V architecture, as they enable fast access to data and help improve the performance and efficiency of the processor.</p>
