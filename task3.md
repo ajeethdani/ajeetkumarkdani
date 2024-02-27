@@ -33,7 +33,7 @@ If the leafpad editor is opened without any errors then type the C code.**
 
 **The results will be displayed as** 
 
-**Sum of numbers from 1 to 50 is 12**
+**Sum of numbers from 1 to 50 is 1275**
 
 
 ********************************************************RISCV Compilation and Execution*****************************************************
@@ -47,39 +47,32 @@ If the leafpad editor is opened without any errors then type the C code.**
 **Step 2: Compile the code in riscv using the following command**
 
 **riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c**
-![WhatsApp Image 2024-02-27 at 11 51 41 AM](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/d06ea136-fbcf-49d0-955e-4284891ccb4d)
-
 
 **Step 3: The ls ltr command in Linux is used to list the contents of the current directory in long format, sorted by last modified time in reverse order.**
 
 **use the command**
 
 **ls -ltr sum1ton.c**
+![WhatsApp Image 2024-02-27 at 11 57 31 AM](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/94dcbb78-13c0-4509-97cf-a4290e0f8346)
 
-![view the directory contents](https://github.com/Abdulbitm/Abdul/assets/160620896/c7dd20be-b896-4d19-af98-077590a23b14)
-
-
-![long directory content](https://github.com/Abdulbitm/Abdul/assets/160620896/3e2e473a-9f55-4bec-8ed3-4bd2732efbee)
 
 **Search for the Main and check the instructions of the C code execution. It has 15 instructions in the C execution**
 
-![checking instructions_in_main_C_Code_15_instructions](https://github.com/Abdulbitm/Abdul/assets/160620896/8d7d1502-a997-403d-a2cc-fcd459962a43)
+![WhatsApp Image 2024-02-27 at 11 56 54 AM](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/bc85cf82-6f55-444c-9883-9ffe98e62269)
 
-![checking instructions_in_main_C_Code_15_instructions_highlighted](https://github.com/Abdulbitm/Abdul/assets/160620896/0a07ba3e-4a3d-41a7-a158-3ef976ce0292)
 
 
 **Step 4:**
 
 **riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c**
 
-![12 instructions with Ofast](https://github.com/Abdulbitm/Abdul/assets/160620896/f2ebdc19-c3a6-494d-a25d-6d71c2811440)
+![WhatsApp Image 2024-02-27 at 11 56 56 AM](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/8f4a8e7f-7a17-47fd-ae80-d8cfcef6f633)
 
 
-
-![12 instructions with Ofast_1](https://github.com/Abdulbitm/Abdul/assets/160620896/4904feb4-c3ab-4337-976c-9a94bacbf85a)
-
+![WhatsApp Image 2024-02-27 at 11 56 55 AM](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/ad3d5a03-49fb-4419-bf21-374e9a35cd42)
 
 
+![WhatsApp Image 2024-02-27 at 11 56 55 AM (1)](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/10a99f1d-b5d8-498e-88bd-66ef06cbfb49)
 
 
 
